@@ -1,22 +1,5 @@
-### Hi there 👋
+### 你好 👋
+我是Jrenc，公司名归家望月。
+| ᐕ)⁾⁾喜好颜文字，对有意思的技术充满兴趣。
+希望能在AI时代里做些改变时代的东西。
 
-<!--
-**lulu546/lulu546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-  我是鹿诚龙，因为Github学生认证而写下了这片文档；
-- 🌱 I’m currently learning ...
-  我更偏向于可以展现我的创造力，表述我想法的东西。
-- 👯 I’m looking to collaborate on ...
-  Think everything！
-- 🤔 I’m looking for help with ...
-  Can help me to get money。
-- 💬 Ask me about ...
-  Ask ChatGPT。
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-  啦啦啦
-- ⚡ Fun fact: ...
--->
