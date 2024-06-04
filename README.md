@@ -5,3 +5,4 @@
 
 (ᕑᗢᓫ∗)˒希望能在AI时代里做些改变世界的东西。
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu546&show_icons=true&theme=transparent)
