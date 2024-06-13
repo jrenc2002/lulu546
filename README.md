@@ -9,8 +9,9 @@
 
 微信公众号:jrencslife
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu546&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulu546&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu546&layout=compact)
 ### 我的技术栈(报菜名环节):
 
 #### 前端
